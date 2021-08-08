@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+  }
+  header {
+    background-color: #373738;
+    padding: 5px;
+  }
+  h1, h2, h3, p{
+    font-family: Inria Sans;
+  }
+  .heroImg ul {
+    float: right;
+    padding-bottom: 50px;
+    color:#ffffff;
+    font-family: fira sans condensed;
+  }
+  .heroImg li {
+    display: inline-block;
+    padding: 7px;
+    margin-bottom:
+  }
+  .content {
+    margin: 0 auto;
+    padding: 50px;
+    text-align: left;
+  footer {
+    background-color: white;
+    padding: 10px;
+    color: white;
+    font-family: fira sans condensed;
+    text-align: center;
+  }
+  footer ul {
+    list-style: none;
+    padding-left: 5px;
+    font-family: fira sans condensed;
+  }
+  footer li {
+    display: inline-block;
+    padding: 0px 40px;
+    color: #444444;
+    font-family: fira sans condensed;
+  }
+  
